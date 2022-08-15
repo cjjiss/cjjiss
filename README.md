@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cjjiss
-- 👀 I’m interested in java,discord.js,c++
+- 👀 I’m interested in ML,java,c++
 - 🌱 I’m currently learning ...ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
