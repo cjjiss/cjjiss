@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cjjiss
-- 👀 I’m interested in ML,Robotics...
+- 👀 I’m interested in ML.
 - 🌱 I’m currently exploring CS...
 
 
